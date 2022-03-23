@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "fullname": "Jane Doe",
+      "comment": "lorem ipsum omit dolor",
+      "job": "Desktop Dev",
+      "id": 1
+    }
+  ]
+}
